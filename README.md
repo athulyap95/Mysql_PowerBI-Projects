@@ -1,3 +1,4 @@
+<h2>Inventory Optimization for Retail</h2>
 <img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/0243b5e6-9704-46dc-b0a0-bfc92ac92b31" />
 <p>This project analyzes retail data to identify demand patterns, pricing effectiveness, and inventory efficiency using MySQL for comprehensive data integration and analysis. It supports the development of a multi-agent AI system by integrating data from stores, warehouses, suppliers, and customers to enable AI-driven demand forecasting, inventory tracking, and pricing optimization.</p>
 <h4>Data Structure and Analysis:</h4>
